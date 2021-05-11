@@ -1,3 +1,5 @@
+#Screen Pixel Color Detector
+
 #importing required librarie(S)
 import pyautogui as pg
 
